@@ -1,0 +1,2 @@
+# Runtime uses only the Python standard library. This dependency is for packaging.
+pyinstaller>=6.0,<7
